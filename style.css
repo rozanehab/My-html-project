@@ -1,0 +1,60 @@
+h1{
+
+    color:rgb(196, 235, 255);
+    font-size: 70px;
+    border: 4px solid black;
+    text-decoration: underline;
+    padding: 0 0 0 20px;
+    margin-top: 10px;
+    margin-bottom: 300px;
+    width:90%;
+
+
+
+}
+h2{
+    color: blueviolet;
+    border:20px;
+
+
+
+
+}
+hr{
+    border-width: 2px;
+    border-color: beige;
+    border-style:solid ;
+}
+ul{
+    list-style:decimal-leading-zero ;
+    border: 20px solid black;
+}
+#hr_last{
+    border-color:greenyellow ;
+}
+#pff{
+    color: coral;
+    border: 20px solid black;
+}
+span{
+    font-weight: 700;
+    color:blue;
+}
+#considered{
+    background-color: blueviolet;
+    border: 4px solid;
+    width : 44%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:20px;
+    
+}
+html ,body{
+margin: 5px;
+margin-top: 6px;
+margin-bottom: 8px;
+
+}
+img{
+    margin: top 40px;
+}
